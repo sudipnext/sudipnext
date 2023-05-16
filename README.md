@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudipnext
 - 👀 I’m interested in Mathematics, Statistics, Web Development,ML and Data Science 
-- 🌱 I’m currently learning Mathematics and Stats with python and Full Stack with React, Node and mysql
+- 🌱 I’m currently learning Mathematics and Stats with python.
 - 💞️ I’m looking to collaborate on anything regarding my interests.
 
 Some Badges
